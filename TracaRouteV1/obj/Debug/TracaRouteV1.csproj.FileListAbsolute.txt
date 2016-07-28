@@ -1,0 +1,6 @@
+C:\Users\GP60\Desktop\Новая папка (2)\ООП\TracaRouteV1\TracaRouteV1\bin\Debug\TracaRouteV1.exe.config
+C:\Users\GP60\Desktop\Новая папка (2)\ООП\TracaRouteV1\TracaRouteV1\bin\Debug\TracaRouteV1.exe
+C:\Users\GP60\Desktop\Новая папка (2)\ООП\TracaRouteV1\TracaRouteV1\bin\Debug\TracaRouteV1.pdb
+C:\Users\GP60\Desktop\Новая папка (2)\ООП\TracaRouteV1\TracaRouteV1\obj\Debug\TracaRouteV1.csprojResolveAssemblyReference.cache
+C:\Users\GP60\Desktop\Новая папка (2)\ООП\TracaRouteV1\TracaRouteV1\obj\Debug\TracaRouteV1.exe
+C:\Users\GP60\Desktop\Новая папка (2)\ООП\TracaRouteV1\TracaRouteV1\obj\Debug\TracaRouteV1.pdb
